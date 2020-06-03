@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BDmusica</string>
+    <string name="button1">All</string>
+    <string name="button2">Delete</string>
+    <string name="texto">Texto</string>
+    <string name="name">Name</string>
+</resources>
